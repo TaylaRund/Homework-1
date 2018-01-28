@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: Homework 1
+
+[README](README.md)
+[Part A](3DScene.html)
+[Part B](ImageProcesser.html)
+[Part C](GameOfLifeColor.html)
